@@ -7,15 +7,13 @@ A Flutter plugin to authenticate to social networks
 ## Usage
 To use this plugin, add `social_login` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
-dependencies:
+``` dependencies:
   flutter:
     sdk: flutter
-
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
+    
   cupertino_icons: ^0.1.3
   social_login:
-    git: git://github.com/devangichhatbar/social_login_flutter.git
+    git: git://github.com/devangichhatbar/social_login_flutter.git```
 
 ### Example
 
