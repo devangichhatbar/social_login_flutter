@@ -7,15 +7,20 @@ A Flutter plugin to authenticate to social networks
 ## Usage
 To use this plugin, add `social_login` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
+ # Use in pubspec.yaml
 ``` dependencies:
   flutter:
     sdk: flutter
     
   cupertino_icons: ^0.1.3
   social_login:
-    git: git://github.com/devangichhatbar/social_login_flutter.git```
+    git: git://github.com/devangichhatbar/social_login_flutter.git
+    
 
-### Example
+
+
+    
+ ## Example
 
 ``` dart
 // Import package
